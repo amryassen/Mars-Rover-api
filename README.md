@@ -1,11 +1,12 @@
 # penta-b-task
 ## First of all the project include two folders ( test , marsRover)
-marsRover includes execution folder which has the commands execution.  <br />
-States folder which has the 4 operations in our task. <br />
-API file about sending the order to execute. <br />
-CommandTranslation file is the master file, it can control all of the execution orders and traslate the commands and see what is the invalid one and reject it. <br />
-position file just has x,y and the basics operations on it. <br />
-finally Rover.java is the rover object itself to control him and his movements and know his states right now,etc.. <br />
+marsRover includes : <br />
+execution folder : which has the commands execution.  <br />
+States folder : which has the 4 operations in our task. <br />
+API file : is about sending the order to execute. <br />
+CommandTranslation file : is the master file, it can control all of the execution orders and traslate the commands and see what is the invalid one and reject it,etc.. <br />
+position file : just has x,y and the basics operations on it. <br />
+finally Rover.java : is the rover object itself to control him and his movements and know his states right now,etc.. <br />
 
 
 
