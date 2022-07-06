@@ -1,4 +1,4 @@
-# penta-b-task
+# Mars-Rover-API
 ## First of all the project include two folders ( test , marsRover)
 <h2> marsRover includes : </h2> 
 execution folder : which has the commands execution.  <br />
