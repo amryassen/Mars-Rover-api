@@ -11,5 +11,4 @@ finally Rover.java : is the rover object itself to control him and his movements
 
 
 test folder has execution test and states test only. <br />
-I couldn't do more, i don't have any experience on testing before, but i will learn soon. <br />
-thanks for your understanding. <br />
+
